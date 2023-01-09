@@ -1,6 +1,9 @@
 # stact-data structure
 
-[!My]
 ![MyImage](image.png)
-Technology used:
+
+# Technology used:
+
 -React
+
+# npm start to run the project
